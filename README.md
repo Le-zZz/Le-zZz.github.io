@@ -48,4 +48,6 @@ Tout ces déplacement fonctionnent grâce aux différents points générés au m
 
 Malheuresement, on n'a pas reussit à l'implémenter correctement dans notre jeu par manque de temps et de compréhension.
 
+Nous avons rencontrer des problèmes aux moments de lier la TileMap et les waypoints avec nos scripts de génération de map et joindre les deux nous a été impossible.
+
 ## Conclusion :
