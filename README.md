@@ -14,6 +14,7 @@ Pour commencer, nous avons partager les tâches. J'étais chargé des 3C (camér
 
 
 *3C :
+
 En ce qui concerne le joueur, il peut se déplacer et tirer et il peut se faire attaquer et ainsi perdre de la vie.
 La caméra suit en permanence le joueur
 
