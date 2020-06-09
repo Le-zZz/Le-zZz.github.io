@@ -38,7 +38,7 @@ Le processus se déroule de la manière suivante :
 
 -Chaque salle vérifie si dans chacune de ses directions, il y a déjà une salle et si ce n'est pas le cas, Elle en génère une. Ensuite, une fois que cette salle est génère, elle regarde dans quelle direction elle peut y aller, et s'il n'y a pas de salle dans la direction dans laquelle est peut y aller, elle en génère une. Et ainsi de suite.
 
--Arrivé à 10 salles généré, la probabilité qu'une salle à une sortie puisse être généré augmente et ainsi provoqué la fin de la génération procédurale et boucler la map.
+-Dès que 10 salles sont générées, la probabilité qu'une salle à une sortie puisse être généré augmente et ainsi provoqué la fin de la génération procédurale et boucler la map.
 
 ## IA :
 
