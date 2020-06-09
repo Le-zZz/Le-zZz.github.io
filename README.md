@@ -18,8 +18,13 @@ Pour commencer, nous avons partager les tâches. J'étais chargé des 3C (camér
 En ce qui concerne le joueur, il peut se déplacer et tirer et il peut se faire attaquer et ainsi perdre de la vie. Il se déplace avec les touches WASD et sa rotation suit la position de la souris. Pour tirer, il faut appuyé sur le clique gauche.
 La caméra suit en permanence le joueur.
 
-## Ennemy : 
+## Ennemies : 
 
+En ce qui concerne les ennemies, on a décidé d'intégrer 3 types de zombies.
+
+Le premier se nomme "Zombie Classique", il a un comportement qu'on peut retrouver dans la majorité des jeux de zombies. Il réagit et attaque dès que le joueur se trouve dans son champ de vision. Tout ceci marche à l'aide de Transform et de Trigger. 
+
+Le deuxième se nomme "Zombie Kamikaze", il attaque le joueur dès qu'il est à ça porter et il explose au contact de celui-ci, ce qui cause de gros dégâts. Tout ceci marche à l'aide de Transform et de Trigger. 
 
 ## Generation Procédurale :
 
