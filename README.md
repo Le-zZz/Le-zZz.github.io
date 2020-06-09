@@ -42,4 +42,10 @@ Le processus se déroule de la manière suivante :
 
 ## IA :
 
+En ce qui concerne l'intelligence artificielle, nous avons crée un script avec un système de pathfinding avec la méthode A* assez connu dans le milieu. Elle consiste a évolué le "coût" de déplacement d'un ennemi afin d'opter pour le chemin le moins chère pour atteindre son objectif. Les déplacements horizontale et verticale son les moins chères, les diagonales sont plus éléves et passer à travers un mur est impossible. 
+
+Tout ces déplacement fonctionnent grâce aux différents points générés au même moment que la map.
+
+Malheuresement, on n'a pas reussit à l'implémenter correctement dans notre jeu par manque de temps et de compréhension.
+
 ## Conclusion :
