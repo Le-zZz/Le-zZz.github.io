@@ -23,7 +23,9 @@ La caméra suit en permanence le joueur.
 
 ## Generation Procédurale :
 
-En ce qui concerne la génération procédurale, on a opté pour un système de salle pré-fabriqué. Chaque salle possède plusieurs points de spawn pour les ennemies et les objects de soins qui sont générés en même temps.
+En ce qui concerne la génération procédurale, on a opté pour un système de salle pré-fabriqué. Chaque salle possède plusieurs points de spawn pour les ennemies et les objects de soins qui sont générés en même temps. 
+Le processus se déroule de la manière suivante :
+-Il y a une salle de départ qui possède 4 directions. Elle vérifié si dans chacune de ses directions, il y a déjà une salle et si ce n'est pas le cas, Elle en génère une. Ensuite, une fois que cette salle est génère, elle regarde dans quelle direction elle peut y aller, et s'il n'y a pas de salle dans la direction dans laquelle est peut y aller, elle en génère une. Et ainsi de suite. Chaque salle qui est généré, peut avoir 1 ou 2 portes de sorties. Au bout d'une dixaine de salle sur la carte, la probabilité de d'apparition de salle a une sortie est augmenté afin de terminer la génération procédurale et ainsi pouvoir jouer.
 
 ## IA :
 
