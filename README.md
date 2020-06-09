@@ -51,3 +51,12 @@ Malheuresement, on n'a pas reussit à l'implémenter correctement dans notre jeu
 Nous avons rencontrer des problèmes aux moments de lier la TileMap et les waypoints avec nos scripts de génération de map et joindre les deux nous a été impossible.
 
 ## Conclusion :
+
+Pour conclure, d'un point de vue purement personnel, cela a été un déssastre. Que ce soit de mon côté ou celui de ma partenaire, beaucoup d'obstacles se sont présentés à nous, que ce soit dans la vie privée, vie professionnel ou tout simplement celle d'un simple étudiant.
+
+Pour ma part, je me suis jamais considéré comme quelqu'un qui avait des facilitées avec la programmation et ce projet n'a fait que reforcer mes propos. Le manque de temps à cause du travail ne m'a pas facilité la tâches. 
+Je travaille de jeudi à mardi 9h par jour et le reste le temps je le passe à l'école ou à étudier. 
+
+Ce qui m'a manqué pour pouvoir finaliser ce projet comme je l'aurais voulu était plus de temps pour pouvoir apprendre et comprendre mieux le fonctionnement de tel ou tel implémentation et comprendre la logique qu'il y a derrière.
+
+Ce que ce projet m'a apporté est de meilleur connaissance dans la programmation, une meilleure autonomie, une méthode de travail plus strict, une capacité de travail en équipe acrue et une motivation à me donner à 1000% pour continuer mes études, car tous ses sacrifices que je fais pour pouvoir rentrer dans l'industrie à l'avenir ne fait que croître.
