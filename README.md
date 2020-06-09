@@ -26,6 +26,8 @@ Le premier se nomme "Zombie Classique", il a un comportement qu'on peut retrouve
 
 Le deuxième se nomme "Zombie Kamikaze", il attaque le joueur dès qu'il est à ça porter et il explose au contact de celui-ci, ce qui cause de gros dégâts. Tout ceci marche à l'aide de Transform et de Trigger. 
 
+Le dernier se nomme "Zombie Tank", il se déplace autour des coffres qui contiennent les clés qui permettent d'activer l'horloge pour s'évader du donjon et ainsi compléter le jeu et possède un nombre de point de vie assez élévé. Sa particularité est qu'au contact du joueur, celui-ci perd de la vie et est directement téléporter au début du niveau. Tout ceci marche à l'aide de Transform et de Trigger.
+
 ## Generation Procédurale :
 
 En ce qui concerne la génération procédurale, on a opté pour un système de salle pré-fabriqué. Chaque salle possède plusieurs points de spawn pour les ennemies et les objects de soins qui sont générés en même temps. 
