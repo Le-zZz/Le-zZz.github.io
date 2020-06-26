@@ -17,6 +17,11 @@ En ce qui concerne la génération procédurale, on a opté pour un système de 
 ![LRBT](zCallMeZ.github.io/assets/gif/LRBT.png)
 ![LRT](zCallMeZ.github.io/assets/gif/LRT.png)
 
+![Start](zCallMeZ.github.io/assets/gif/Start.png)
+![update](zCallMeZ.github.io/assets/gif/update.png)
+![spawnennemy](zCallMeZ.github.io/assets/gif/spawnennemy.png)
+
 ![direction1](zCallMeZ.github.io/assets/gif/direction1.png)
 ![direction3](zCallMeZ.github.io/assets/gif/direction3.png)
 ![direction5](zCallMeZ.github.io/assets/gif/direction5.png)
+![stopgen true](zCallMeZ.github.io/assets/gif/stopgen true.png)
