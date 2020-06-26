@@ -22,7 +22,7 @@ Sortie gauche, droite et bas :
 Sortie gauche, droite, bas et haut :
 ![LRBT](zCallMeZ.github.io/assets/gif/LRBT.JPG)
 
-###Le script "Level Generation" :
+### Le script "Level Generation" :
 Dès le départ, on determine à quelle position en haut de la grille la première salle va apparaître et on fait commencer le joueur dans celle-ci. On determine aussi ou se trouvera le coffre pour pouvoir compléter le niveau, il se trouve obligatoirement en bas de la grille. 
 ![Start](zCallMeZ.github.io/assets/gif/Start.JPG)
 
@@ -53,8 +53,8 @@ Si la dernière salle se trouve en bas de la grille et souhaite faire généré 
 Pour conclure, on vérifié si la génération est arrêté et si c'est le cas on fait apparaître des salles à 4 directions dans les espaces vides à l'intérieur de la grille pour ainsi pouvoir clôturer la génération procédurale et obtenir un niveau fini !
 ![spawnroom](zCallMeZ.github.io/assets/gif/spawnroom.JPG)
 
-##BlogPost Partenaire :
+## BlogPost Partenaire :
 https://sosolamojo.github.io/
 
-##Inspiration:
+## Inspiration:
 https://www.youtube.com/watch?v=hk6cUanSfXQ
