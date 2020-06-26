@@ -6,6 +6,8 @@ Dans le cadre d'un projet scolaire visant à nous évaluer sur l'implémentation
 Dungeon Survivor est shooter 2D vu du dessus où l'on doit survivre à l'attaque des différents zombies, tout en récoltant des items pour pouvoir survivre.
 Pour la création de celui-ci, j'ai fais équipe avec l'une de mes camarades de classe, Solange.
 
+![examples](zCallMeZ.github.io/assets/gif/examples.png)
+
 ## Présentation:
 
 On incarne un humain armé d'un pistolet qui se trouve dans une salle avec une horloge et le but est de parcourir un dongeon rempli de zombies afin de trouver une clé permettant d'ouvrir l'horloge et pouvoir s'échapper. 
