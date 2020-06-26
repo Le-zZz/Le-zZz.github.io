@@ -50,7 +50,11 @@ Si la dernière salle se trouve en bas de la grille et souhaite faire généré 
 ![stopgen true](zCallMeZ.github.io/assets/gif/stopgen true.JPG)
 
 ### Le script "Spawn Room"
-Pour conclure, on vérifié si la génération est d'arrêter et si c'est le cas on fait apparaître des salles à 4 directions dans les espaces vides à l'intérieur de la grille pour ainsi pouvoir clôturer la génération procédurale et obtenir un niveau fini !
+Pour conclure, on vérifié si la génération est arrêté et si c'est le cas on fait apparaître des salles à 4 directions dans les espaces vides à l'intérieur de la grille pour ainsi pouvoir clôturer la génération procédurale et obtenir un niveau fini !
 ![spawnroom](zCallMeZ.github.io/assets/gif/spawnroom.JPG)
 
-##
+##BlogPost Partenaire :
+https://sosolamojo.github.io/
+
+##Inspiration:
+https://www.youtube.com/watch?v=hk6cUanSfXQ
