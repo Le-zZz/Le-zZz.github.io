@@ -12,6 +12,7 @@ Pour la création de celui-ci, j'ai fais équipe avec l'une de mes camarades de 
 
 En ce qui concerne la génération procédurale, on a opté pour un système de salles pré-fabriqué dans un espace de 4 sur 4. La première salle spawn en haut de la grille et à partir de ce moment, elles peuvent spawner et se dirigier dans 3 direction. A gauche, à droite ou en bas. 
 
+### Les salles :
 Sortie gauche et droite :
 ![LR](zCallMeZ.github.io/assets/gif/LR.JPG)
 Sortie gauche, droite et haut:
@@ -21,8 +22,8 @@ Sortie gauche, droite et bas :
 Sortie gauche, droite, bas et haut :
 ![LRBT](zCallMeZ.github.io/assets/gif/LRBT.JPG)
 
-
-Ensuite lors du lancement du script dans la fonction Start(), on determine à quelle position en haut de la grille la première salle va apparaître et on fait commencer le joueur dans celle-ci. On determine aussi ou se trouvera le coffre pour pouvoir compléter le niveau, il se trouve obligatoirement en bas de la grille. 
+###Le script "Level Generation" :
+Dès le départ, on determine à quelle position en haut de la grille la première salle va apparaître et on fait commencer le joueur dans celle-ci. On determine aussi ou se trouvera le coffre pour pouvoir compléter le niveau, il se trouve obligatoirement en bas de la grille. 
 ![Start](zCallMeZ.github.io/assets/gif/Start.JPG)
 
 
@@ -47,3 +48,9 @@ Prochaine salle en bas :
 
 Si la dernière salle se trouve en bas de la grille et souhaite faire généré un salle à l'extérieur de celle-ci, la génération s'arrête.
 ![stopgen true](zCallMeZ.github.io/assets/gif/stopgen true.JPG)
+
+### Le script "Spawn Room"
+Pour conclure, on vérifié si la génération est d'arrêter et si c'est le cas on fait apparaître des salles à 4 directions dans les espaces vides à l'intérieur de la grille pour ainsi pouvoir clôturer la génération procédurale et obtenir un niveau fini !
+![spawnroom](zCallMeZ.github.io/assets/gif/spawnroom.JPG)
+
+##
