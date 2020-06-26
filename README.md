@@ -12,16 +12,16 @@ Pour la création de celui-ci, j'ai fais équipe avec l'une de mes camarades de 
 
 En ce qui concerne la génération procédurale, on a opté pour un système de salle pré-fabriqué. 
 
-![LR](zCallMeZ.github.io/assets/gif/LR.png)
-![LRB](zCallMeZ.github.io/assets/gif/LRB.png)
-![LRBT](zCallMeZ.github.io/assets/gif/LRBT.png)
-![LRT](zCallMeZ.github.io/assets/gif/LRT.png)
+![LR](zCallMeZ.github.io/assets/gif/LR.JPG)
+![LRB](zCallMeZ.github.io/assets/gif/LRB.JPG)
+![LRBT](zCallMeZ.github.io/assets/gif/LRBT.JPG)
+![LRT](zCallMeZ.github.io/assets/gif/LRT.JPG)
 
-![Start](zCallMeZ.github.io/assets/gif/Start.png)
-![update](zCallMeZ.github.io/assets/gif/update.png)
-![spawnennemy](zCallMeZ.github.io/assets/gif/spawnennemy.png)
+![Start](zCallMeZ.github.io/assets/gif/Start.JPG)
+![update](zCallMeZ.github.io/assets/gif/update.JPG)
+![spawnennemy](zCallMeZ.github.io/assets/gif/spawnennemy.JPG)
 
-![direction1](zCallMeZ.github.io/assets/gif/direction1.png)
-![direction3](zCallMeZ.github.io/assets/gif/direction3.png)
-![direction5](zCallMeZ.github.io/assets/gif/direction5.png)
-![stopgen true](zCallMeZ.github.io/assets/gif/stopgen true.png)
+![direction1](zCallMeZ.github.io/assets/gif/direction1.JPG)
+![direction3](zCallMeZ.github.io/assets/gif/direction3.JPG)
+![direction5](zCallMeZ.github.io/assets/gif/direction5.JPG)
+![stopgen true](zCallMeZ.github.io/assets/gif/stopgen true.JPG)
