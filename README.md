@@ -34,8 +34,16 @@ Pour le spawner d'ennemies, on fait générer un nombre aléatoire et selon le n
 
 Maintenant on va parler du coeur de la génération, la fonction Move(). Même système que pour les ennemies pour choisir dans quelle direction apparaîtra la prochaine salle, sauf que là en fonction de la direction il y aura des paramètres à prendre en compte.
 
+En fonction de la direction, on va vérifié si un salle peut être généré dans cette position, si c'est le cas on va généré un chiffre aléatoire pour faire apparâitre l'une des salles pré-fabriquées et un autre chiffre aléatoire pour déterminer la prochaine direction. 
 
+Prochaine salle à droite : 
 ![direction1](zCallMeZ.github.io/assets/gif/direction1.JPG)
+
+Prochaine salle à gauche :
 ![direction3](zCallMeZ.github.io/assets/gif/direction3.JPG)
+
+Prochaine salle en bas :
 ![direction5](zCallMeZ.github.io/assets/gif/direction5.JPG)
+
+Si la dernière salle se trouve en bas de la grille et souhaite faire généré un salle à l'extérieur de celle-ci, la génération s'arrête.
 ![stopgen true](zCallMeZ.github.io/assets/gif/stopgen true.JPG)
