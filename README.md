@@ -54,7 +54,7 @@ Pour conclure, on vérifié si la génération est arrêté et si c'est le cas o
 ![spawnroom](zCallMeZ.github.io/assets/gif/spawnroom.JPG)
 
 ## BlogPost Partenaire :
-https://sosolamojo.github.io/
+[Solange](https://sosolamojo.github.io/)
 
 ## Inspiration:
-https://www.youtube.com/watch?v=hk6cUanSfXQ
+[Tuto](https://www.youtube.com/watch?v=hk6cUanSfXQ)
